@@ -1,0 +1,14 @@
+.todo {
+    display: flex;
+    flex-direction: row;
+}
+
+.todo-item {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.todo-task {
+    text-decoration: line-through;
+}
